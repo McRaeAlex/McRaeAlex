@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning about networking and OS development as well as SRE and K8s.
 - 👯 I’m looking to collaborate on Projects!
 - 💬 Ask me about ANYTHING!
-- 📫 How to reach me: mail at alexandermcrae dot com
+- 📫 How to reach me: mail at snailscale dot io
 - 😄 Pronouns: He/Him
